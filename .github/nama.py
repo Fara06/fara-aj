@@ -1,3 +1,2 @@
-nama = "Aufa Ramadhani"
-
+nama = "Aufa  Ramadhani"
 print(nama)
