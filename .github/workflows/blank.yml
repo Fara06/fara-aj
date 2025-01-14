@@ -37,5 +37,5 @@ jobs:
       - name: Proses Tambahan
         run: date
 
-      -name: Jalankan file pyhton
+      - name: Jalankan file pyhton
         run: pyhton nama.py
